@@ -138,6 +138,7 @@
     <Compile Include="ConsoleCommands\Abstract\Type\TypeString.cs" />
     <Compile Include="ConsoleCommands\AutosaveCommand.cs" />
     <Compile Include="ConsoleCommands\BackCommand.cs" />
+	<Compile Include="ConsoleCommands\BanIpCommand.cs" />
     <Compile Include="ConsoleCommands\ChangeServerGamemodeCommand.cs" />
     <Compile Include="ConsoleCommands\ChangeServerPasswordCommand.cs" />
     <Compile Include="ConsoleCommands\ConfigCommand.cs" />
